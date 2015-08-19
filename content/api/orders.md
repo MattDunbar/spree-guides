@@ -70,7 +70,7 @@ GET /api/orders?q[s]=user_name%20asc```
 
 ## Show
 
-To view the details for a single product, make a request using that order\'s number:
+To view the details for a single order, make a request using that order\'s number:
 
 ```text
 GET /api/orders/R123456789```
